@@ -1,0 +1,48 @@
+img {
+  border-radius: 50%;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
+
+.photo {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.margin {
+  height: 500px;
+  width: 200px;
+}
+
+.button {
+}
+.leo {
+  margin-top: 10px;
+}
+.dno {
+  height: 200px;
+  width: 50px;
+}
+.text {
+  padding: 20px;
+  margin-top: 10px;
+}
+.all {
+  align-content: center;
+}
+.hyper {
+  padding: 20px;
+}
+.hfer {
+  text-align: center;
+}
+
+.text-center {
+  margin-bottom: 50px;
+}
+
+.hyperman {
+  margin-bottom: 20px;
+}
+.bi {
+  color: darkslategrey;
+}
